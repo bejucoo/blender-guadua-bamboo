@@ -3,7 +3,7 @@
 # BlenderGuadua
 ## v0.1 | 11.07.2024
 
-Setup de GeometryNodes en Blender para crear guaduas y bambúes paramétricos. Incluye opciones para controlar:
+Setup de GeometryNodes en Blender para crear guaduas y bambúes de forma paramétrica. Incluye opciones para controlar:
 - Largo y el ancho de la guadua.
 - Número de nodos.
 - Cortes (con profundidad y ángulo).
