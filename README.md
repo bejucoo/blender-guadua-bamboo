@@ -14,4 +14,4 @@ Setup de GeometryNodes en Blender para crear guaduas y bambúes de forma paramé
 - Agregar el archivo .blend a la carpeta de Catálogo de Recursos (Asset Library).
 - Agregar el setup de Geometry Nodes a una geometría.
 
-## [Video Tutorial]()
+## [Video Tutorial](https://youtu.be/umRuOLMpxO4)
